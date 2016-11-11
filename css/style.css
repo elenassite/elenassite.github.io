@@ -22,7 +22,6 @@
     max-width:100%;
     height: auto;
     display: block;
-    cursor:pointer;
   }
   a:visited,a:active,a:link{color: #fff;text-decoration: none;outline:none;}
   /********************************************/
